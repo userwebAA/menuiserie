@@ -1,3 +1,8 @@
+$(document).ready(function() {
+    $('.select2').select2();
+});
+
+
 animated =() => {
     var terrasseElement = document.getElementById("terrasse");
     terrasseElement.classList.remove("fade-in"); // Supprimez la classe qui déclenche l'animation
