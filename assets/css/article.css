@@ -1,0 +1,31 @@
+body{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.parent{
+    width: 100vw;
+    height: 100vh;
+    margin: 6% 0 2% 4%;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.card1{
+    width: 40%;
+   
+}
+img{
+  width: 60%;
+    
+    
+}
+.text1{
+    width: 50%;
+    padding-bottom: 20%;
+}
+.text1 ul{
+    list-style:circle;
+}
